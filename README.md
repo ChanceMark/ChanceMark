@@ -14,3 +14,4 @@ You can reach me via email at chance8476@outlook.com or connect with me on Linke
 
 ⚡ Fun fact
 I love coding while listening to classical music and I am an avid chess player!
+

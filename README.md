@@ -16,17 +16,26 @@ You can reach me via email at chance8476@outlook.com or connect with me on Linke
 I love coding while listening to classical music and I am an avid chess player!
 
 ## My Skills
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" title="VB"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" title="Solidity"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="Php"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Javascript"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="Html5"></code>
-<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" title="XML"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React"></code>
-<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" title="angular"></code>
-<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code>
-<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
-<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" title="Angular"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" title="Android"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"></code>
 
@@ -34,7 +43,6 @@ I love coding while listening to classical music and I am an avid chess player!
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" title="python"></code> -->
 <!-- <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" title="Flutter"></code>-->
 <!-- <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="Typescript"></code>-->
-<!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel"></code>-->
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="dJango"></code>-->
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js"></code>-->
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SASS"></code>-->
@@ -43,3 +51,6 @@ I love coding while listening to classical music and I am an avid chess player!
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" title="NuxtJs"></code>-->
 <!-- <code><img height="35" src="https://banner2.cleanpng.com/20180427/zce/kisspng-figma-user-interface-design-designer-logo-apps-design-5ae2b107507599.2852510515248058953296.jpg"></code>-->
 <!-- <code><img height="35" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/085/square_280/firebaselogo.png"></code>-->
+<!-- <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="WooCommerce"></code>-->
+<!-- <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" title="WordPress"></code>-->
+<!-- <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original-wordmark.svg" title="Yii"></code>-->

@@ -14,6 +14,7 @@ You can reach me via email at chance8476@outlook.com or connect with me on Linke
 
 **⚡ Fun fact:**
 I love coding while listening to classical music and I am an avid chess player!
+![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 
 ## My Skills
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"></code>

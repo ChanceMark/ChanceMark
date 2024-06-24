@@ -1,4 +1,4 @@
-# Hi there, I'm ChanceMark 👋 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+# Hi there, I'm ChanceMark <code><img height="40" src="./wave.gif"></code>
 
 **👀 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> I’m interested in**
 Web development and blockchain technology. I enjoy exploring new technologies and finding ways to integrate them into innovative solutions.

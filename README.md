@@ -9,7 +9,7 @@ Advanced blockchain concepts, including smart contract development and decentral
 **💞️<img height="20" width="20" src="./thunder.gif"> I’m looking to collaborate on**
 Projects that merge web development with blockchain technology. I'm particularly interested in working on decentralized applications (dApps), smart contract projects, and anything that leverages the strengths of blockchain for real-world use cases.
 
-**📫<img height="20" width="20" src="./thunder.gif"> How to reach me:**
+**<img height="20" width="20" src="./mail-box.gif"> How to reach me:**
 You can reach me via email at chance8476@outlook.com or connect with me on LinkedIn.
 
 **<img height="20" width="20" src="./thunder.gif"> Fun fact:**

@@ -1,9 +1,9 @@
-# Hi there, I'm ChanceMark <code><img height="40" src="./wave.gif"></code>
+# <code><img height="40" width="40" src="./wave.gif"></code> Hi there, I'm ChanceMark
 
-**👀 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> I’m interested in**
+**👀 <code><code><img height="30" width="30" src="./wave.gif"></code> I’m interested in**
 Web development and blockchain technology. I enjoy exploring new technologies and finding ways to integrate them into innovative solutions.
 
-**🌱 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> I’m currently learning**
+**🌱 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> I’m currently learning**
 Advanced blockchain concepts, including smart contract development and decentralized finance (DeFi) applications. I'm also improving my skills in modern web frameworks such as React and Vue.js.
 
 **💞️ <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> I’m looking to collaborate on**

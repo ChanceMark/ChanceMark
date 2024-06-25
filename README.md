@@ -1,6 +1,6 @@
 # <img height="40" width="40" src="./wave.gif"> Hi there, I'm ChanceMark
 
-**<img height="25" width="25" src="./thunder.gif"> I’m interested in**
+**<img height="25" width="25" src="./baloon.gif"> I’m interested in**
 Web development and blockchain technology. I enjoy exploring new technologies and finding ways to integrate them into innovative solutions.
 
 **<img height="25" width="25" src="./pencil-writing.gif"> I’m currently learning**

@@ -1,18 +1,18 @@
 # <img height="40" width="40" src="./wave.gif"> Hi there, I'm ChanceMark
 
-**👀<img height="20" width="20" src="./thunder.gif"> I’m interested in**
+**<img height="25" width="25" src="./thunder.gif"> I’m interested in**
 Web development and blockchain technology. I enjoy exploring new technologies and finding ways to integrate them into innovative solutions.
 
-**🌱<img height="20" width="20" src="./thunder.gif"> I’m currently learning**
+**<img height="25" width="25" src="./pencil-writing.gif"> I’m currently learning**
 Advanced blockchain concepts, including smart contract development and decentralized finance (DeFi) applications. I'm also improving my skills in modern web frameworks such as React and Vue.js.
 
-**<img height="20" width="20" src="./idea.gif"> I’m looking to collaborate on**
+**<img height="25" width="25" src="./idea.gif"> I’m looking to collaborate on**
 Projects that merge web development with blockchain technology. I'm particularly interested in working on decentralized applications (dApps), smart contract projects, and anything that leverages the strengths of blockchain for real-world use cases.
 
-**<img height="20" width="20" src="./mail-box.gif"> How to reach me:**
+**<img height="25" width="25" src="./mail-box.gif"> How to reach me:**
 You can reach me via email at chance8476@outlook.com or connect with me on LinkedIn.
 
-**<img height="20" width="20" src="./thunder.gif"> Fun fact:**
+**<img height="25" width="25" src="./thunder.gif"> Fun fact:**
 I love coding while listening to classical music and I am an avid chess player!
 
 ## My Skills <img height="30" width="30" src="./multiple-folders.gif">

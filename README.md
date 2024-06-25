@@ -6,7 +6,7 @@ Web development and blockchain technology. I enjoy exploring new technologies an
 **🌱<img height="20" width="20" src="./thunder.gif"> I’m currently learning**
 Advanced blockchain concepts, including smart contract development and decentralized finance (DeFi) applications. I'm also improving my skills in modern web frameworks such as React and Vue.js.
 
-**💞️<img height="20" width="20" src="./thunder.gif"> I’m looking to collaborate on**
+**<img height="20" width="20" src="./idea.gif"> I’m looking to collaborate on**
 Projects that merge web development with blockchain technology. I'm particularly interested in working on decentralized applications (dApps), smart contract projects, and anything that leverages the strengths of blockchain for real-world use cases.
 
 **<img height="20" width="20" src="./mail-box.gif"> How to reach me:**
@@ -15,7 +15,7 @@ You can reach me via email at chance8476@outlook.com or connect with me on Linke
 **<img height="20" width="20" src="./thunder.gif"> Fun fact:**
 I love coding while listening to classical music and I am an avid chess player!
 
-## My Skills <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+## My Skills <img height="30" width="30" src="./multiple-folders.gif">
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" title="VB"></code>

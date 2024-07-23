@@ -21,6 +21,7 @@ I love coding while listening to classical music and I am an avid chess player!
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" title="VB"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="Go"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" title="Solidity"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="Php"></code>

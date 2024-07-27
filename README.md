@@ -16,6 +16,7 @@ You can reach me via email at chance8476@outlook.com or connect with me on Linke
 I love coding while listening to classical music and I am an avid chess player!
 
 ## My Skills <img height="30" width="30" src="./multiple-folders.gif">
+<p align = "center">
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" title="VB"></code>
@@ -55,3 +56,4 @@ I love coding while listening to classical music and I am an avid chess player!
 <!-- <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="WooCommerce"></code>-->
 <!-- <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" title="WordPress"></code>-->
 <!-- <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original-wordmark.svg" title="Yii"></code>-->
+</p>

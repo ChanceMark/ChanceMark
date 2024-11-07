@@ -17,15 +17,15 @@ I love coding while listening to classical music and I am an avid chess player!
 
 ## My Skills <img height="30" width="30" src="./multiple-folders.gif">
 <p align = "center">
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="Go"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" title="Solidity"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="Php"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" title="VB"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java"></code>
-<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="Go"></code>
-<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" title="Solidity"></code>
-<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"></code>
-<code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="Php"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Javascript"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery"></code>

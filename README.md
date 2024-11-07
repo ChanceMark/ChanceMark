@@ -1,19 +1,19 @@
 # <img height="40" width="40" src="./wave.gif"> Hi there, I'm ChanceMark
 
 **<img height="25" width="25" src="./baloon.gif"> I’m interested in**
-Web development and blockchain technology. I enjoy exploring new technologies and finding ways to integrate them into innovative solutions.
+web development and blockchain technology, with a strong focus on building innovative, real-world solutions by integrating emerging technologies.
 
-**<img height="25" width="25" src="./pencil-writing.gif"> I’m currently learning**
-Advanced blockchain concepts, including smart contract development and decentralized finance (DeFi) applications. I'm also improving my skills in modern web frameworks such as React and Vue.js.
+**<img height="25" width="25" src="./pencil-writing.gif"> Currently, I’m diving**
+deep into advanced blockchain concepts, including smart contract development, decentralized finance (DeFi) applications, and cryptocurrency integration. I’m also improving my skills in modern web frameworks like React and Vue.js. Additionally, I have experience with web scraping and data extraction from documents and spreadsheets, which I often leverage to gather and organize key information for projects.
 
 **<img height="25" width="25" src="./idea.gif"> I’m looking to collaborate on**
-Projects that merge web development with blockchain technology. I'm particularly interested in working on decentralized applications (dApps), smart contract projects, and anything that leverages the strengths of blockchain for real-world use cases.
+projects that bridge web development and blockchain, especially decentralized applications (dApps), smart contracts, cryptocurrency solutions, and data-driven applications.
 
 **<img height="25" width="25" src="./mail-box.gif"> How to reach me:**
 You can reach me via email at chance8476@outlook.com or connect with me on LinkedIn.
 
 **<img height="25" width="25" src="./thunder.gif"> Fun fact:**
-I love coding while listening to classical music and I am an avid chess player!
+I enjoy coding to classical music, and I’m a dedicated hiker who loves exploring new trails.
 
 ## My Skills <img height="30" width="30" src="./multiple-folders.gif">
 <p align = "center">
